@@ -4,7 +4,7 @@ Bu program yaşları bilinen 3 kişinin yaşlarının ortalamasını bulmayı sa
 1. Grubun yaş ortalamasını hesaplar
 2. Gruptaki en büyük kişiyi bulur
 3. Gruptaki en küçük kişiyi bulur
-# Kullanılan değişkenler ve değerleri ve açıklamaları
+# Kullanılan değişkenler , değerleri ve açıklamaları
 1. sadef_yas - 19 - Sadef'in yaşını gösterir
 2. enes_yas - 20 - Enes' in yaşını gösterir
 3. muharrem_yas - 21 - Muharrem' in yaşını gösteriri
