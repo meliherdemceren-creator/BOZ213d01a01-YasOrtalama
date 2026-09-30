@@ -14,5 +14,8 @@ Bu program yaşları bilinen 3 kişinin yaşlarının ortalamasını bulmayı sa
 1. print (ortalama) : verilen değişkeni ekrana yansıtır
 2. if : bir koşuldur ve şart sağlanırsa çalışır
 3. elif : ilk if yanlışsa başka şartla tekrar kontrol eder
-
+## Yazar
+Melih Erdem Ceren
+25040322
+Böte 2.Sınıf
    
